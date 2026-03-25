@@ -136,7 +136,7 @@ GradeBot/
 
 **Mikhail** - *Student & Developer*
 
-- Telegram: [@a_b_c6_f4](https://t.me/a_b_c6_f4)
+- Telegram: [@a_b_c6f4](https://t.me/a_b_c6_f4)
 - GitHub: [Mishel067](https://github.com/Mishel067)
 
 ---

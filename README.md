@@ -114,6 +114,13 @@ GradeBot/
 
 ## 📊 Sample Output
 
+![Adding grades](screenshots/gradebot_add.png)
+![Statistics](screenshots/gradebot_stats.png)
+![Progress graph](screenshots/gradebot_graph.png)
+![export](screenshots/gradebot_export.png)
+![start message](screenshots/gradebot_start.png)
+![help](screenshots/gradebot_help.png)
+![import](screenshots/gradebot2.0_import.png)
 
 ---
 

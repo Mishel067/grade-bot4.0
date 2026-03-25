@@ -34,7 +34,7 @@ A personal pet project developed to help students track their academic performan
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Mishel067/GradeBot.git
+git clone https://github.com/Mishel067/grade-bot4.0.git
 cd GradeBot
 ```
 
@@ -52,7 +52,7 @@ OPENWEATHER_API_KEY=your_api_key_here
 
 4. **Run the bot**
 ```bash
-python gradebot.py
+python gradebot4.0.py
 ```
 
 ---
@@ -100,7 +100,7 @@ python gradebot.py
 
 ```
 GradeBot/
-├── gradebot.py # Main bot code
+├── gradebot4.0.py # Main bot code
 ├── requirements.txt # Dependencies
 ├── README.md # This file
 ├── .env # Environment variables (do not commit!)

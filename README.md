@@ -75,7 +75,6 @@ python gradebot4.0.py
 | `/backup` | Download database backup |
 | `/export` | Export grades to CSV |
 | `/today` | Show today's grades |
-| `/delete` | Delete a grade |
 | `/clearreminds` | Clear reminds |
 
 ---

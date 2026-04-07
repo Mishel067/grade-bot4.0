@@ -76,7 +76,7 @@ python gradebot4.0.py
 | `/export` | Export grades to CSV |
 | `/today` | Show today's grades |
 | `/clearreminds` | Clear reminds |
-
+| `/import`| Exports grades to the database from a .csv file|
 ---
 
 ## 🛠️ Technologies
